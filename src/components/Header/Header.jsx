@@ -16,7 +16,7 @@ export const Header = () => {
                     Заголовок
                 </Heading>
                 <Search/>
-                <Auth/>
+                <Auth auth='Крис'/>
             </div>
         </Layout>
         </header>
